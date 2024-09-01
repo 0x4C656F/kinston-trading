@@ -2,12 +2,12 @@
 	import Icon from '@iconify/svelte';
 </script>
 
-<header class="fixed w-full z-50 bg-white bg-opacity-90 backdrop-blur-sm shadow-sm">
+<header class="fixed w-screen z-50 bg-white bg-opacity-90 backdrop-blur-sm shadow-sm">
 	<div class="container mx-auto px-4 sm:px-6 lg:px-8">
 		<div class="flex items-center justify-between h-16">
 			<a href="/" class="flex items-center space-x-2">
 				<Icon icon="lucide:truck" class="h-8 w-8 text-primary" />
-				<span class="text-xl font-semibold text-foreground">Kinston Trading</span>
+				<span class="text-xl font-semibold text-foreground">Kins West Trading</span>
 			</a>
 			<nav class="hidden md:flex space-x-8">
 				<a
@@ -34,4 +34,3 @@
 		</div>
 	</div>
 </header>
-

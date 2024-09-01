@@ -18,20 +18,6 @@
 				Europe to your doorstep in Ukraine. Enjoy exceptional quality, timely delivery, and
 				unparalleled customer service.
 			</p>
-			<div class="flex flex-col gap-2 min-[400px]:flex-row">
-				<a
-					href="/"
-					class="inline-flex h-10 items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
-				>
-					Shop Now
-				</a>
-				<a
-					href="/"
-					class="inline-flex h-10 items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
-				>
-					Learn More
-				</a>
-			</div>
 		</div>
 	</div>
 </section>
