@@ -29,16 +29,16 @@ export const categories: Category[] = [
 			'/images/bookshelf.webp'
 		],
 		providers: [
-			{ name: 'Calligaris S.p.A.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Désirée S.p.A.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Mollura & C.S.P.A.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Badeloft GmbH', country: 'Germany', icon: 'twemoji:flag-germany' },
-			{ name: 'Tandem Company S.r.l.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'FELIX ITALIA srl', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'KAROL ITALIA S.R.L.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Kartell S.p.A.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'ARKETIPO S.r.l.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Rimadesio S.p.a.', country: 'Italy', icon: 'twemoji:flag-italy' }
+			{ name: 'Calligaris ', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Désirée', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Mollura', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Badeloft', country: 'Germany', icon: 'twemoji:flag-germany' },
+			{ name: 'Tandem Company', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'FELIX ITALIA', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'KAROL ITALIA', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Kartell', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'ARKETIPO', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Rimadesio', country: 'Italy', icon: 'twemoji:flag-italy' }
 		]
 	},
 	{
@@ -56,16 +56,16 @@ export const categories: Category[] = [
 			'/images/lamp/lamp_5.webp'
 		],
 		providers: [
-			{ name: 'LEDS-C4 S.A.', country: 'Spain', icon: 'twemoji:flag-spain' },
-			{ name: 'Intra lighting d.o.o.', country: 'Slovenia', icon: 'twemoji:flag-slovenia' },
-			{ name: 'Lee Broom (Ireland) Ltd', country: 'Ireland', icon: 'twemoji:flag-ireland' },
-			{ name: 'Ideal Lux S.r.l.', country: 'Italy', icon: 'twemoji:flag-italy' }
+			{ name: 'LEDS-C4', country: 'Spain', icon: 'twemoji:flag-spain' },
+			{ name: 'Intra lighting', country: 'Slovenia', icon: 'twemoji:flag-slovenia' },
+			{ name: 'Lee Broom', country: 'Ireland', icon: 'twemoji:flag-ireland' },
+			{ name: 'Ideal Lux', country: 'Italy', icon: 'twemoji:flag-italy' }
 		]
 	},
 	{
-		name: 'sound',
+		name: 'audio',
 		icon: 'mdi:speaker',
-		href: '/sound',
+		href: '/audio',
 		description: 'Experience high-quality sound with our premium audio systems.',
 		products: [
 			'/images/sound/sound_0.webp',
@@ -78,17 +78,17 @@ export const categories: Category[] = [
 		],
 
 		providers: [
-			{ name: 'Bose Products BV', country: 'Netherlands', icon: 'twemoji:flag-netherlands' },
-			{ name: 'ATEЇS Europe B.V.', country: 'Netherlands', icon: 'twemoji:flag-netherlands' },
-			{ name: 'Audio Tuning Vertriebs GmbH', country: 'Austria', icon: 'twemoji:flag-austria' },
-			{ name: 'MUSIC & LIGHTS S.r.l.', country: 'Italy', icon: 'twemoji:flag-italy' },
-			{ name: 'Cambridge Audio (EU) Limited', country: 'Ireland', icon: 'twemoji:flag-ireland' },
+			{ name: 'Bose Products', country: 'Netherlands', icon: 'twemoji:flag-netherlands' },
+			{ name: 'ATEЇS Europe', country: 'Netherlands', icon: 'twemoji:flag-netherlands' },
+			{ name: 'Audio Tuning Vertriebs', country: 'Austria', icon: 'twemoji:flag-austria' },
+			{ name: 'MUSIC & LIGHTS', country: 'Italy', icon: 'twemoji:flag-italy' },
+			{ name: 'Cambridge Audio', country: 'Ireland', icon: 'twemoji:flag-ireland' },
 			{
-				name: 'Transom Post Netherlands B.V.',
+				name: 'Transom Post Netherlands',
 				country: 'Netherlands',
 				icon: 'twemoji:flag-netherlands'
 			},
-			{ name: 'PVS N.V.', country: 'Belgium', icon: 'twemoji:flag-belgium' }
+			{ name: 'PVS', country: 'Belgium', icon: 'twemoji:flag-belgium' }
 		]
 	}
 ];
