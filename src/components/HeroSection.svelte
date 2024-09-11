@@ -6,10 +6,10 @@
 	<Waves />
 </div>
 <section
-	class="bg-muted flex max-sm:justify-start max-sm:pt-40 items-center min-h-screen justify-center w-full flex-col"
+	class="bg-muted flex max-sm:justify-start max-sm:pt-20 pt-12 items-center min-h-screen justify-center w-full flex-col"
 >
 	<div
-		class=" w-full flex items-center max-lg:flex-col px-6 sm:px-8 lg:px-4 justify-around flex-wrap max-w-screen-2xl bg-transparent z-10"
+		class=" w-full flex items-center lg:mb-40 max-lg:flex-col px-6 sm:px-8 lg:px-4 justify-around flex-wrap max-w-screen-2xl bg-transparent z-10"
 	>
 		<div class="flex flex-col gap-4 max-w-lg">
 			<h1
@@ -30,4 +30,3 @@
 		/>
 	</div>
 </section>
-

@@ -25,11 +25,11 @@
 >
 	<div class="flex flex-col md:flex-row max-w-screen-2xl items-center gap-8 px-4 md:px-6">
 		<img
-			src="/images/placeholder.svg"
+			src="/images/shipping.webp"
 			width="550"
 			height="550"
 			alt="Shipping"
-			class="mx-auto aspect-square overflow-hidden rounded-xl object-cover w-full md:w-1/2"
+			class="mx-auto shadow-lg aspect-square overflow-hidden rounded-xl object-cover w-full md:w-1/2"
 		/>
 		<div class="space-y-4 md:w-1/2">
 			<h2 class="text-3xl py-2 font-bold tracking-tighter sm:text-4xl md:text-5xl">
@@ -54,4 +54,3 @@
 		</div>
 	</div>
 </section>
-

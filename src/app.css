@@ -5,4 +5,38 @@
 
 * {
 	@apply overflow-x-hidden;
+} /* For WebKit browsers (Chrome, Safari, etc.) */
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #888;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+
+/* For Firefox */
+* {
+	scrollbar-width: thin;
+	scrollbar-color: #888 #f1f1f1;
+}
+
+/* Optional for a smoother scroll experience */
+html {
+	scroll-behavior: smooth;
+}
+.text-shadow-lg {
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+.text-shadow-white-lg {
+	text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.5);
 }
