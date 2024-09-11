@@ -14,7 +14,7 @@
 <div
 	class="flex flex-col m-0 py-40 overflow-hidden box-border h-screen w-screen max-w-screen-2xl px-4 md:px-6"
 >
-	<div class="flex flex-wrap gap-10 items-center py-1">
+	<div class="flex flex-wrap max-md:my-4 gap-10 items-center py-1">
 		<a
 			href="/"
 			class="text-slate-100 hover:bg-transparent transition-all duration-150 bg-foreground bg-opacity-80 text-lg w-fit px-2 py-1 rounded"
@@ -45,4 +45,3 @@
 		text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
 	}
 </style>
-
