@@ -23,21 +23,19 @@
 <section
 	class="bg-background rounded-t-[5%] flex flex-col w-full items-center py-12 md:py-24 lg:py-32"
 >
-	<div class="flex max-w-screen-2xl items-center gap-8 px-4 md:px-6">
+	<div class="flex flex-col md:flex-row max-w-screen-2xl items-center gap-8 px-4 md:px-6">
 		<img
 			src="/images/placeholder.svg"
 			width="550"
 			height="550"
 			alt="Shipping"
-			class="mx-auto aspect-square overflow-hidden rounded-xl object-cover sm:w-full"
+			class="mx-auto aspect-square overflow-hidden rounded-xl object-cover w-full md:w-1/2"
 		/>
-		<div class="space-y-4">
-			<h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+		<div class="space-y-4 md:w-1/2">
+			<h2 class="text-3xl py-2 font-bold tracking-tighter sm:text-4xl md:text-5xl">
 				Reliable Shipping to Ukraine
 			</h2>
-			<p
-				class="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed"
-			>
+			<p class="max-w-[600px] text-muted-foreground md:text-xl lg:text-base xl:text-xl">
 				We understand the importance of timely and secure delivery to Ukraine. Our shipping process
 				is streamlined and efficient, ensuring your furniture arrives in pristine condition within
 				the estimated delivery timeframe.
@@ -56,3 +54,4 @@
 		</div>
 	</div>
 </section>
+
