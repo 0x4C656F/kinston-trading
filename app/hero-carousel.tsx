@@ -65,7 +65,7 @@ export function HeroCarousel() {
     <div className="hero-carousel-overlay" aria-live="off">
         <a className="hero-sector-link" href={`/categories/${slide.slug}`}>
           <span className="hero-sector-title">{slide.title}</span>
-          <ArrowUpRight size={16} aria-hidden="true" />
+          <ArrowUpRight size={22} aria-hidden="true" />
         </a>
         <div className="hero-slide-selectors" role="group" aria-label="Choose a sector">
           {slides.map((item, index) => <button
