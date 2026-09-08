@@ -1,0 +1,34 @@
+{
+  "retrieved_at": "2026-09-08",
+  "product": "AstralPool Round Ø 210 mm main drain",
+  "category": "Main drains and bottom suction",
+  "local_path": "/tmp/kins-pool-range/astral-drain/main-drain-white.jpg",
+  "width": 705,
+  "height": 690,
+  "visual_type": "Official manufacturer product photograph",
+  "model": "White round 210 mm main-drain family; 01467 concrete-pool variant listed on page",
+  "alt": "AstralPool white 210 mm round main drain with radial ABS grille and threaded side outlet",
+  "description": "Round ABS main drain with a 210 mm grille and 2-inch side outlet, for bottom suction and pool-water circulation.",
+  "facts": [
+    "ABS body and grating",
+    "Product page lists concrete-pool, liner and polyester-pool variants",
+    "White, beige, light-grey and anthracite colours listed"
+  ],
+  "source_page": "https://www.astralpool.com/en/en/pool-shell-equipment/main-drains/main-drain/round----210mm-main-drain.html",
+  "category_source": "https://www.astralpool.com/en/en/pool-shell-equipment/main-drains/main-drain.html",
+  "exact_image_url": "https://fluidra.bynder.com/m/7dc67fce2490329/original/round210mmmaindrain.jpg",
+  "qa": "Downloaded from an exact image link on the official product page; dimensions inspected locally and image visually verified; no enlargement or generation.",
+  "optional_high_resolution_family_image": {
+    "local_path": "/tmp/kins-pool-range/astral-drain/round-210mm-main-drain.jpg",
+    "width": 1024,
+    "height": 1499,
+    "exact_image_url": "https://dam.fluidra.com/asset/0241bc34-871f-4dca-b3f5-ce33039a991f/Medium/productimages_round210mmmaindrain.jpg",
+    "alt": "AstralPool 210 mm round main drains in white, beige, grey and anthracite",
+    "visual_type": "Official manufacturer illustration that appears rendered; use main-drain-white.jpg for a photographic image"
+  },
+  "reuse_information": {
+    "source": "https://www.astralpool.com/en/en/legal-information.html",
+    "status": "No open reuse licence found. Fluidra requires written permission for reproduction and use; existing distributor permissions were not checked."
+  },
+  "published_path": "/images/pool/astralpool-main-drain.webp"
+}

@@ -1,0 +1,129 @@
+[
+  {
+    "originalName": "LEDS-C4 (LEDS C4)",
+    "verifiedName": "LedsC4",
+    "officialUrl": "https://ledsc4.com/en/",
+    "sourcePageUrl": "https://www.archiproducts.com/it/prodotti/ledsc4/lampada-da-terra-a-led-in-vetro-levels-lampada-da-terra_622712",
+    "description": "Spanish lighting company offering architectural, decorative and outdoor luminaires.",
+    "productCategories": [
+      "Architectural lighting",
+      "Decorative lighting",
+      "Outdoor lighting"
+    ],
+    "imageUrl": "https://img.edilportale.com/product-thumbs/2b_LEVELS-Floor-lamp-LEDS-C4-622712-rel55d76189.jpg",
+    "localImagePath": "/tmp/kins-lighting-assets/ledsc4-levels.jpg",
+    "imageAlt": "Close-up of the illuminated LedsC4 Levels floor lamp with overlapping green glass shades",
+    "assetStatus": "downloaded",
+    "verifiedImageSourcePage": "https://www.archiproducts.com/it/prodotti/ledsc4/lampada-da-terra-a-led-in-vetro-levels-lampada-da-terra_622712",
+    "provenance": {
+      "publisher": "Archiproducts / Edilportale",
+      "manufacturer": "LedsC4",
+      "product": "LEVELS LED glass floor lamp",
+      "designer": "Nahtrang",
+      "evidence": "Image search returned this exact Archiproducts product page and exact Edilportale image URL, both explicitly labeled LedsC4 LEVELS floor lamp. Archiproducts hosts a dedicated LedsC4 manufacturer catalogue with company-contact controls and official catalogues. Downloaded JPEG visually verified; original unchanged. Manufacturer ownership is not the same as a public reuse licence.",
+      "factsSourceUrls": [
+        "https://ledsc4.com/en/?trk=organization-update_share-update_update-text",
+        "https://ledsc4.com/en/about-us",
+        "https://ledsc4.com/en/collection/levels",
+        "https://www.archiproducts.com/en/ledsc4/products/categories_lighting",
+        "https://www.archiproducts.com/it/prodotti/ledsc4/lampada-da-terra-a-led-in-vetro-levels-lampada-da-terra_622712"
+      ],
+      "reuseInfo": "Manufacturer-labelled catalogue imagery on Archiproducts. No explicit public reuse licence or individual photographer credit verified. Attribution label supplied; licensing permission is not asserted.",
+      "checkedDate": "2026-09-07"
+    },
+    "imageLabel": "LedsC4 — Levels floor lamp by Nahtrang. Image source: Archiproducts.",
+    "imageWidth": 1680,
+    "imageHeight": 2240,
+    "imageBytes": 139951
+  },
+  {
+    "originalName": "Intra lighting",
+    "verifiedName": "Intra lighting",
+    "officialUrl": "https://www.intra-lighting.com/",
+    "sourcePageUrl": "https://www.intra-lighting.com/",
+    "description": "Architectural luminaires and smart lighting solutions, with suspended, wall and table designs.",
+    "productCategories": [
+      "Suspended luminaires",
+      "Wall luminaires",
+      "Table lamps"
+    ],
+    "imageUrl": "https://www.intra-lighting.com/DesktopModules/KiviCOM.Web.UI.Intra.Constructor/Script/assets/img/web/1_ENTRY_PAGE/2026_07_Trenza/Trenza_desktop.jpg",
+    "localImagePath": "/tmp/kins-lighting-assets/intra-trenza.jpg",
+    "imageAlt": "Illuminated Intra lighting Trenza woven wall panel in a lounge overlooking mountains",
+    "assetStatus": "downloaded",
+    "imageWidth": 3322,
+    "imageHeight": 1234,
+    "imageBytes": 616956,
+    "provenance": {
+      "publisher": "Intra lighting",
+      "product": "Trenza",
+      "evidence": "Official homepage hero with alt Trenza links to the official Trenza presentation. Trenza is available suspended or wall mounted and combines acoustic material and lighting. Original downloaded unchanged.",
+      "factsSourceUrls": [
+        "https://www.intra-lighting.com/product-presentation/Trenza",
+        "https://www.intra-lighting.com/product-models/Pendulum-Table"
+      ],
+      "reuseInfo": "Public manufacturer marketing image; no explicit public reuse licence or individual photographer credit found on the source page.",
+      "checkedDate": "2026-09-07"
+    }
+  },
+  {
+    "originalName": "Lee Broom",
+    "verifiedName": "Lee Broom",
+    "officialUrl": "https://leebroom.com/",
+    "sourcePageUrl": "https://leebroom.com/",
+    "description": "Lighting collection spanning decorative pendants, chandeliers and wall lights.",
+    "productCategories": [
+      "Pendant lights",
+      "Chandeliers",
+      "Wall lights"
+    ],
+    "imageUrl": "https://leebroom.com/wp-content/uploads/2025/12/DSC09639-2.jpg",
+    "localImagePath": "/tmp/kins-lighting-assets/lee-broom.jpg",
+    "imageAlt": "Lee Broom illuminated tubular pendants cascading beside a sculptural stone staircase",
+    "assetStatus": "downloaded",
+    "imageWidth": 1120,
+    "imageHeight": 633,
+    "imageBytes": 219456,
+    "provenance": {
+      "publisher": "Lee Broom",
+      "product": "Lighting installation shown on official Lee Broom homepage",
+      "evidence": "Image src extracted from current official homepage carousel; image links to https://www.instagram.com/p/DRKaJE1DPRQ/. Original downloaded unchanged. No project location or photographer asserted.",
+      "factsSourceUrls": [
+        "https://leebroom.com/lighting/",
+        "https://leebroom.com/lighting/hail-3-piece-chandelier-brushed-silver/"
+      ],
+      "reuseInfo": "Public manufacturer marketing image; no explicit public reuse licence or individual photographer credit found on the source page.",
+      "checkedDate": "2026-09-07"
+    }
+  },
+  {
+    "originalName": "Ideal Lux",
+    "verifiedName": "Ideal Lux",
+    "officialUrl": "https://www.ideal-lux.com/en/",
+    "sourcePageUrl": "https://www.ideal-lux.com/en/",
+    "description": "Italian lighting company founded in 1974, with indoor, outdoor and technical lighting collections.",
+    "productCategories": [
+      "Indoor lighting",
+      "Outdoor lighting",
+      "Technical lighting"
+    ],
+    "imageUrl": "https://www.ideal-lux.com/assets/images/2026-09-01-Binomio.jpg",
+    "localImagePath": "/tmp/kins-lighting-assets/ideal-hero.jpg",
+    "imageAlt": "Ideal Lux opal globe wall light with a vertical brass-coloured frame beside a bed",
+    "assetStatus": "downloaded",
+    "imageWidth": 1920,
+    "imageHeight": 1400,
+    "imageBytes": 353112,
+    "provenance": {
+      "publisher": "Ideal Lux",
+      "product": "Binomio image identified by official source filename",
+      "evidence": "Current official English homepage hero photograph, filename 2026-09-01-Binomio.jpg. Original downloaded unchanged.",
+      "factsSourceUrls": [
+        "https://www.ideal-lux.com/en/",
+        "https://www.ideal-lux.com/en/history"
+      ],
+      "reuseInfo": "Public manufacturer marketing image; no explicit public reuse licence or individual photographer credit found on the source page.",
+      "checkedDate": "2026-09-07"
+    }
+  }
+]

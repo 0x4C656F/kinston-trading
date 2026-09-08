@@ -1,0 +1,137 @@
+{
+  "retrieved_at": "2026-09-07",
+  "provider": "Official AstralPool product website / Fluidra DAM",
+  "reuse_information": {
+    "source": "https://www.astralpool.com/en/en/legal-information.html",
+    "status": "No open reuse licence found. Fluidra states its website images and photographs are protected and reproduction/use requires its written authorization; any existing dealer/distributor permission was not checked.",
+    "note": "Preserve manufacturer attribution and verify applicable brand/dealer permission before public deployment."
+  },
+  "assets": [
+    {
+      "category": "Underwater lighting",
+      "product": "AstralPool LumiPlus Design RGB, Pure White decorative ring",
+      "model": "59803",
+      "local_path": "/tmp/kins-pool-range/astralpool/lumiplus-design.jpg",
+      "width": 1024,
+      "height": 1096,
+      "alt": "AstralPool LumiPlus Design underwater LED light with a white decorative ring and illuminated RGB LEDs",
+      "source_page": "https://www.astralpool.com/en/en/pool-lighting/led-lighting/lumiplus-design/lumiplus-design.html",
+      "exact_image_url": "https://dam.fluidra.com/asset/8b9e5f6a-a0bd-4dff-be45-33f5d597c25f/Medium/MainView_59803VV99_59803.jpg",
+      "description": "Underwater LED projector for 180 mm niches, offered with white, warm white or RGB light and white or stainless-effect trim.",
+      "facts": [
+        "Rated 12 Vac; IP68 protection",
+        "2.5 m cable supplied"
+      ],
+      "visual_type": "Official manufacturer product image; illuminated LED packshot",
+      "published_path": "/images/pool/astralpool-lumiplus-design.webp"
+    },
+    {
+      "category": "Ladders and handrails",
+      "product": "AstralPool KOMFY Ladder",
+      "model": "Three-step image corresponds to the 73148 variant; linked image filename is 73147",
+      "local_path": "/tmp/kins-pool-range/astralpool/komfy-ladder.jpg",
+      "width": 1024,
+      "height": 1401,
+      "alt": "AstralPool KOMFY pool ladder with polished stainless steel handrails and three wide dark non-slip steps",
+      "source_page": "https://www.astralpool.com/en/en/pool-surround-equipment/pool-access/ladders/komfy-ladder.html",
+      "exact_image_url": "https://fluidra.bynder.com/m/3072ec5cc74e832e/Medium-73147.jpg",
+      "description": "Pool access ladder with polished AISI-316 stainless steel handrails and broad ergonomic plastic steps.",
+      "facts": [
+        "43 mm handrail diameter",
+        "Non-slip zones on steps",
+        "Range includes two to five steps"
+      ],
+      "visual_type": "Official manufacturer product photograph",
+      "notes": "Use family name, not code 73147 beside this photograph: webpage associates filename 73147 with a visibly three-step ladder, while its table labels 73147 two-step and 73148 three-step.",
+      "published_path": "/images/pool/astralpool-komfy-ladder.webp"
+    },
+    {
+      "category": "Pool covers and rollers",
+      "product": "AstralPool Octeo above-ground roller",
+      "model": "Octeo family",
+      "local_path": "/tmp/kins-pool-range/astralpool/octeo-cover.jpg",
+      "width": 1024,
+      "height": 697,
+      "alt": "AstralPool Octeo above-ground automatic cover roller beside a pool with its grey slatted cover rolled up",
+      "source_page": "https://www.astralpool.com/en/en/covers---rollers/automatic-covers-and-reel-systems/above-ground-rollers/octeo-model.html",
+      "exact_image_url": "https://dam.fluidra.com/asset/f93ab5fa-9ec9-44b9-bb62-c535a4a40739/Medium/octeomodel.jpg",
+      "description": "Motorised deck-level roller for automatic pool covers, with a cast aluminium structure and tubular motor.",
+      "facts": [
+        "Limit switch",
+        "Contact for salt chlorinator",
+        "Four stand colour combinations listed"
+      ],
+      "visual_type": "Official manufacturer lifestyle photograph",
+      "notes": "Original downloaded height is 697 px; no enlargement performed.",
+      "published_path": "/images/pool/astralpool-octeo-cover.webp"
+    },
+    {
+      "category": "Pool finishes and mosaics",
+      "product": "AstralPool Blue mix glass mosaic",
+      "model": "Blue mix family; photo not confidently assigned to a named colour code",
+      "local_path": "/tmp/kins-pool-range/astralpool/blue-mix-mosaic.jpg",
+      "width": 1024,
+      "height": 1024,
+      "alt": "AstralPool Blue mix glass mosaic sheet with small white, light blue and deep blue square tiles",
+      "source_page": "https://www.astralpool.com/en/en/pool-lining-material/glass-tiling-for-pools/blue-mix.html",
+      "exact_image_url": "https://dam.fluidra.com/asset/802d1fe6-6f82-47d5-84bb-30a8c8c0c8d6/Medium/bluemix.jpg",
+      "description": "Pressed and fired vitreous mosaic for pool interiors, wellness areas and decorative surfaces.",
+      "facts": [
+        "Manufacturer lists resistance to chemicals, frost, stains and abrasion",
+        "Range includes Sea water, Ibiza, Turquoise and Caribbean"
+      ],
+      "visual_type": "Official manufacturer material photograph",
+      "published_path": "/images/pool/astralpool-blue-mix-mosaic.webp"
+    },
+    {
+      "category": "Plumbing valves",
+      "product": "AstralPool Check valve – Clear Series",
+      "model": "Clear Series; 50 mm and 63 mm variants",
+      "local_path": "/tmp/kins-pool-range/astralpool/clear-check-valve.jpg",
+      "width": 1024,
+      "height": 1024,
+      "alt": "AstralPool Clear Series transparent check valve installed between two grey PVC pipes",
+      "source_page": "https://www.astralpool.com/en/en/fluid-handling/valves/check-valve---clear-series.html",
+      "exact_image_url": "https://dam.fluidra.com/asset/25301b7a-7d7c-481d-8603-9132b38cc04c/Medium/MainView_CHECKVALVECLEARSERIES.jpg",
+      "description": "Transparent check valve that prevents reverse water flow and allows visual inspection of its interior.",
+      "facts": [
+        "PVC-U construction",
+        "50 mm and 63 mm versions, with spring variants"
+      ],
+      "visual_type": "Official manufacturer product visualization; appears rendered, not photographic",
+      "notes": "Authentic image taken directly from manufacturer page, not AI-generated by us. If task requires strictly photographic assets, use the lower-resolution PVC-U STD ball-valve alternative or omit this high-resolution render.",
+      "published_path": "/images/pool/astralpool-clear-check-valve.webp"
+    },
+    {
+      "category": "Inlets and shell fittings",
+      "product": "AstralPool Multiflow return inlet nozzle – Glue",
+      "model": "00298 colour family",
+      "local_path": "/tmp/kins-pool-range/astralpool/multiflow-return.jpg",
+      "width": 987,
+      "height": 1412,
+      "alt": "AstralPool Multiflow return inlet nozzles shown in white, beige, light grey and anthracite",
+      "source_page": "https://www.astralpool.com/en/en/pool-shell-equipment/inlets/return-inlet/multiflow-return-inlet-nozzle---glue.html",
+      "exact_image_url": "https://dam.fluidra.com/m/17fdad3e00dc603f/original/productimages_multiflowreturninletnozzle-glue.jpg",
+      "description": "ABS return inlet nozzle for concrete pools, supplied in colours that coordinate with pool finishes.",
+      "facts": [
+        "Glue connection for 63 mm PN6 outer wall and 50 mm inner wall",
+        "Manufacturer recommends wall conduits 15661 and 15660"
+      ],
+      "visual_type": "Official manufacturer product photograph",
+      "published_path": "/images/pool/astralpool-multiflow-return.webp"
+    }
+  ],
+  "low_resolution_alternative": {
+    "category": "Plumbing valves",
+    "product": "PVC-U Ball valve [STD] Series solvent socket",
+    "local_path": "/tmp/kins-pool-range/astralpool/pvc-ball-valve.jpg",
+    "width": 240,
+    "height": 240,
+    "source_page": "https://www.astralpool.com/en/en/fluid-handling/valves/pvc-u-ball-valve--std--series-solvent-socket.html",
+    "exact_image_url": "https://dam.fluidra.com/transform/Medium/24a3d7b2-9133-4816-8164-b38f5447691f/MainView_UP_60ST_SF51040",
+    "alt": "PVC-U STD ball valve with grey union fittings and an orange handle",
+    "description": "Solvent-socket ball valve with HDPE seats and EPDM O-rings; page lists 75, 90 and 110 mm sizes.",
+    "visual_type": "Official manufacturer packshot, small source resolution"
+  },
+  "qa": "All six selected images were downloaded from exact linked URLs, dimensions read locally, and visually inspected. No generated imagery, synthetic URL variants, or image enlargement used."
+}

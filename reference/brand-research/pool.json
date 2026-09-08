@@ -1,0 +1,60 @@
+{
+  "accessed": "2026-09-07",
+  "selection": "Pentair, Hayward and AstralPool selected for established pool pump and filtration ranges; no official distribution agreement is asserted.",
+  "assets": [
+    {
+      "file": "/images/pool-leisure.webp",
+      "sourcePage": "https://www.pexels.com/photo/relaxing-poolside-at-palm-lined-resort-35023213/",
+      "imageUrl": "https://images.pexels.com/photos/35023213/pexels-photo-35023213.jpeg?cs=srgb&dl=pexels-pure-house-on-the-lake-2157341293-35023213.jpg&fm=jpg",
+      "photographer": "Pure house On the lake",
+      "license": "https://www.pexels.com/license/",
+      "originalDimensions": [
+        6988,
+        3931
+      ],
+      "publishedDimensions": [
+        2400,
+        1350
+      ],
+      "note": "High-resolution illustrative stock photograph selected for the user-requested pool, leisure and people concept. Pexels License permits website use and cropping; attribution optional. Replaces the previous 550×400 image."
+    },
+    {
+      "file": "/images/brands/pentair-pump.png",
+      "sourcePage": "https://www.pentairpooleurope.com/products/pumps/intelliflo3",
+      "imageUrl": "https://www.pentairpooleurope.com/sites/default/files/2022-09/intelliflo3_0.png",
+      "model": "IntelliFlo3"
+    },
+    {
+      "file": "/images/brands/hayward-pump.png",
+      "sourcePage": "https://www.hayward-pool.co.uk/catalog/single-speed-pumps/super-pump-pro",
+      "imageUrl": "https://cdn.hayward.fr/production/media/8/1/0/2/fce863.png",
+      "model": "Super Pump Pro"
+    },
+    {
+      "file": "/images/brands/astralpool-pump.jpg",
+      "sourcePage": "https://www.astralpool.com/en/en/pumps/self-priming-pumps/victoria-plus-silent.html",
+      "imageUrl": "https://fluidra.bynder.com/m/144772d6f8eb5d83/Medium-victoriaplussilentpump.jpg",
+      "model": "Victoria Plus Silent"
+    }
+  ],
+  "additionalContentSources": [
+    "https://www.pentairpooleurope.com/products/filters",
+    "https://www.pentairpooleurope.com/products/automation",
+    "https://www.hayward-pool.co.uk/categories/filters",
+    "https://www.hayward-pool.co.uk/categories/sanitization/salt-chlorinators",
+    "https://www.astralpool.com/en/en/about-us.html",
+    "https://www.astralpool.com/en/en/filtration.html",
+    "https://www.astralpool.com/en/en/water-treatment-equipment.html"
+  ],
+  "reuse": "Pump photographs are manufacturer product images; no separate open licence was found. The pool lifestyle photograph is covered by the Pexels License noted in its asset record. Brand names and images identify products and do not imply authorisation or an exclusive relationship.",
+  "previousPoolImage": {
+    "file": "/images/pool.webp",
+    "sourcePage": "https://www.hayward-pool.co.uk/",
+    "imageUrl": "https://cdn.hayward.fr/production/media/7/6/2/5/conversions/08fa1c-full.jpg",
+    "note": "Official Hayward pool setting. Download verified against the official image by SHA-256; converted to WebP without cropping.",
+    "originalDimensions": [
+      550,
+      400
+    ]
+  }
+}

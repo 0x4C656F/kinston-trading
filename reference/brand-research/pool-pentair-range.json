@@ -1,0 +1,97 @@
+{
+  "brand": "Pentair",
+  "checked_date": "2026-09-07",
+  "reuse_info": {
+    "availability": "All four originals are publicly offered through Download image links on official product pages.",
+    "copyright": "Pentair; product pages state all rights reserved.",
+    "commercial_reuse_permission": "No open commercial reuse licence found. Linked Terms of Use section 4 limits the standard download permission to personal and non-commercial use and calls for express written authorization for reproduction. Any existing dealer/manufacturer permission was not evaluated.",
+    "terms_url": "https://www.pentair.com/en-us/legal/terms-of-use.html"
+  },
+  "assets": [
+    {
+      "category": "Pool filters",
+      "name": "Pentair Clean & Clear RP",
+      "source_page": "https://www.pentairpooleurope.com/index.php/products/filters/clean-and-clear-rp-cartridge-filter",
+      "image_url": "https://www.pentairpooleurope.com/sites/default/files/2023-12/clean-and-clear-rp-cartridge-filter.png",
+      "alt": "Pentair Clean & Clear RP cartridge pool filter with pressure gauge and side connections",
+      "description": "Single-cartridge pool filter with a side-entry port, Posi-Ring closure and a fiberglass-reinforced polypropylene tank.",
+      "facts": [
+        "Traps particles as small as 20 microns",
+        "Posi-Ring closure provides access for maintenance",
+        "Single-piece fiberglass-reinforced polypropylene tank"
+      ],
+      "local_path": "/tmp/kins-pool-range/pentair/clean-and-clear-rp.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG",
+      "has_alpha": true,
+      "image_link_origin": "Download image link on official product page",
+      "visually_verified": true,
+      "published_path": "/images/pool/pentair-clean-and-clear-rp.webp"
+    },
+    {
+      "category": "Pool heating",
+      "name": "Pentair InverTemp-LT",
+      "source_page": "https://www.pentairpooleurope.com/index.php/products/heaters-and-heat-pumps/invertemp-lt",
+      "image_url": "https://www.pentairpooleurope.com/sites/default/files/2021-02/InverTemp_LT_1.png",
+      "alt": "Pentair InverTemp-LT pool heat pump with grey enclosure and front fan",
+      "description": "Reversible pool heat pump combining an inverter compressor and variable-speed fan for automatic heating and cooling.",
+      "facts": [
+        "Full inverter technology",
+        "LCD control panel with three operating modes",
+        "Dry-contact connection for an automation device"
+      ],
+      "visual_note": "Official product photo contains a narrow strip of floor beneath the unit.",
+      "local_path": "/tmp/kins-pool-range/pentair/invertemp-lt.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG",
+      "has_alpha": true,
+      "image_link_origin": "Download image link on official product page",
+      "visually_verified": true,
+      "published_path": "/images/pool/pentair-invertemp-lt.webp"
+    },
+    {
+      "category": "Pool automation",
+      "name": "Pentair Speedeo Connect",
+      "source_page": "https://www.pentairpooleurope.com/index.php/products/automation/speedeo-connect",
+      "image_url": "https://www.pentairpooleurope.com/sites/default/files/2022-10/speedeo-1.png",
+      "alt": "Pentair Speedeo Connect pool automation controller with blue LCD screen",
+      "description": "Connected controller for variable-speed pumps, pool lighting and heating, with remote access through Wi-Fi.",
+      "facts": [
+        "Adjusts filtration time according to water temperature",
+        "Includes freeze protection",
+        "Can connect through the optional Pentair Gateway when local Wi-Fi is unavailable"
+      ],
+      "local_path": "/tmp/kins-pool-range/pentair/speedeo-connect.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG",
+      "has_alpha": true,
+      "image_link_origin": "Download image link on official product page",
+      "visually_verified": true,
+      "published_path": "/images/pool/pentair-speedeo-connect.webp"
+    },
+    {
+      "category": "Pool lighting",
+      "name": "Pentair MicroBrite",
+      "source_page": "https://www.pentairpooleurope.com/products/lights/microbrite",
+      "image_url": "https://www.pentairpooleurope.com/sites/default/files/2021-02/MicroBrite.png",
+      "alt": "Pentair MicroBrite compact underwater LED pool light with threaded white fitting",
+      "description": "Compact LED light for pools and spas, designed for standard 1.5-inch wall fittings without a dedicated niche.",
+      "facts": [
+        "9 cm long",
+        "12 W LED power consumption",
+        "Available in colour, white and warm white versions"
+      ],
+      "local_path": "/tmp/kins-pool-range/pentair/microbrite.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG",
+      "has_alpha": true,
+      "image_link_origin": "Download image link on official product page",
+      "visually_verified": true,
+      "published_path": "/images/pool/pentair-microbrite.webp"
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+[
+  {
+    "slug": "calligaris",
+    "sector": "furniture",
+    "sourceName": "Calligaris",
+    "name": "Calligaris",
+    "label": "FURNITURE · ITALIAN DESIGN",
+    "headline": "Designed around the way you live.",
+    "intro": "Italian home-furnishing brand with collections for dining, living and bedrooms.",
+    "image": "/images/brands/calligaris.jpg",
+    "imageAlt": "Calligaris dining table and upholstered chairs in a bright contemporary dining room.",
+    "imageCaption": "CALLIGARIS · DINING COLLECTION",
+    "officialUrl": "https://www.calligaris.com/en-GB",
+    "sourceUrl": "https://www.calligaris.com/en-GB",
+    "groups": [
+      {
+        "title": "Chairs",
+        "description": "Dining chairs and occasional seating, with the collection selected to complement the table, room and intended use."
+      },
+      {
+        "title": "Dining tables",
+        "description": "Dining tables for different room sizes and seating arrangements. Dimensions and the selected finish form part of the enquiry."
+      },
+      {
+        "title": "Sofas",
+        "description": "Sofas for living spaces. Share the preferred model and room plan to discuss the required configuration."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "desiree",
+    "sector": "furniture",
+    "sourceName": "Désirée",
+    "name": "Désirée",
+    "label": "FURNITURE · UPHOLSTERED COLLECTIONS",
+    "headline": "Soft forms for considered interiors.",
+    "intro": "Italian upholstered-furniture brand offering sofas, armchairs and beds.",
+    "image": "/images/brands/desiree.jpg",
+    "imageAlt": "Désirée Homan modular sofa with light upholstery and loose cushions.",
+    "imageCaption": "DÉSIRÉE · HOMAN / MATTEO THUN & ANTONIO RODRIGUEZ",
+    "officialUrl": "https://www.desiree.com/en",
+    "sourceUrl": "https://www.desiree.com/en/collections/2025-collection",
+    "groups": [
+      {
+        "title": "Sofas",
+        "description": "Sofas and modular compositions, including Homan, create the centre of a living space. Specify the layout and upholstery reference."
+      },
+      {
+        "title": "Armchairs",
+        "description": "Armchairs introduce individual seating alongside a sofa or as a standalone piece within a room."
+      },
+      {
+        "title": "Beds",
+        "description": "Upholstered beds extend the collection into bedrooms, with sizes and fabric choices checked for the selected model."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "mollura",
+    "sector": "furniture",
+    "sourceName": "Mollura",
+    "name": "Mollura / Mohd",
+    "label": "DESIGN RETAILER · INTERNATIONAL COLLECTIONS",
+    "headline": "A curated view of international design.",
+    "intro": "Design retailer and interior-design service presenting furniture from Italian and international brands.",
+    "image": "/images/brands/mollura.jpg",
+    "imageAlt": "Molteni&C living-room collection featured by Mohd, with a brown sectional sofa and coffee tables.",
+    "imageCaption": "MOLTENI&C COLLECTION · FEATURED BY MOHD",
+    "officialUrl": "https://www.mohd.it/en/",
+    "sourceUrl": "https://www.mohd.it/en/",
+    "groups": [
+      {
+        "title": "Furniture",
+        "description": "Furniture from Italian and international collections, including the Molteni&C living-room setting shown here."
+      },
+      {
+        "title": "Lighting",
+        "description": "Lighting from multiple design houses, allowing a project enquiry to bring furniture and lighting requirements together."
+      },
+      {
+        "title": "Outdoor furniture",
+        "description": "Outdoor pieces from the retailer’s selection. Identify the collection and intended setting when requesting information."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "badeloft",
+    "sector": "furniture",
+    "sourceName": "Badeloft",
+    "name": "Badeloft",
+    "label": "BATHROOMS · STONE-RESIN COLLECTIONS",
+    "headline": "Sculptural pieces for the bathroom.",
+    "intro": "Bathroom brand offering freestanding stone-resin bathtubs, sinks and bathroom accessories.",
+    "image": "/images/brands/badeloft.jpg",
+    "imageAlt": "Badeloft BW-01 freestanding bathtub in a customer bathroom with a mosaic-tile wall.",
+    "imageCaption": "BADELOFT · BW-01 / CUSTOMER GALLERY",
+    "officialUrl": "https://www.badeloft.com/",
+    "sourceUrl": "https://www.badeloft.com/pages/gallery",
+    "groups": [
+      {
+        "title": "Freestanding bathtubs",
+        "description": "Freestanding stone-resin baths, including the BW-01 shown here. Model, dimensions and finish are specified for the order."
+      },
+      {
+        "title": "Bathroom sinks",
+        "description": "Bathroom basins in different forms and sizes, selected to suit the vanity arrangement and the room layout."
+      },
+      {
+        "title": "Bathroom accessories",
+        "description": "Accessories complete the bathroom selection. Confirm compatibility with the chosen bathtub or basin."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "tandem-company",
+    "sector": "furniture",
+    "sourceName": "Tandem Company",
+    "name": "Tandem Company",
+    "label": "DESIGN STUDIO · WORKSPACE FURNITURE",
+    "headline": "A design-led approach to workspaces.",
+    "intro": "Industrial-design and innovation studio whose furniture work includes office systems for Forma 5.",
+    "image": "/images/brands/tandem-company.webp",
+    "imageAlt": "Forma 5 Logos office workstation, designed by Tandem Company, with white desks and blue dividing screens.",
+    "imageCaption": "FORMA 5 LOGOS · DESIGN BY TANDEM COMPANY",
+    "officialUrl": "https://www.tandem-company.com/",
+    "sourceUrl": "https://forma5.com/en/tables-desks/office/logos/",
+    "groups": [
+      {
+        "title": "Office desks",
+        "description": "Workspace designs include Logos for Forma 5, shown here as a coordinated office-desk system."
+      },
+      {
+        "title": "Office chairs",
+        "description": "Seating is part of the studio’s furniture-design work. Share the manufacturer and model reference for a sourcing enquiry."
+      },
+      {
+        "title": "Storage cabinets",
+        "description": "Storage elements support the wider workspace layout. A product schedule helps establish the exact collection and configuration."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "felix-italia",
+    "sector": "furniture",
+    "sourceName": "FELIX ITALIA",
+    "name": "Felix Italia",
+    "label": "ITALIAN BRANDS · PROJECT SOURCING",
+    "headline": "Italian collections for complete interiors.",
+    "intro": "Italian partner presenting collections from Italian brands for international design and building projects.",
+    "image": "/images/brands/felix-italia.jpg",
+    "imageAlt": "Contemporary living-room interior featured on Felix Italia’s product page.",
+    "imageCaption": "INTERIOR COLLECTIONS · FELIX ITALIA",
+    "officialUrl": "https://www.felixitalia.it/en/",
+    "sourceUrl": "https://www.felixitalia.it/en/products/",
+    "groups": [
+      {
+        "title": "Tiles",
+        "description": "Tiles and surfaces from Italian collections, with product references, quantities and finish schedules used to define an enquiry."
+      },
+      {
+        "title": "Bathroom furniture",
+        "description": "Bathroom furniture contributes to a coordinated interior specification. Identify the collection, size and finish required."
+      },
+      {
+        "title": "Faucets",
+        "description": "Tapware and fittings complete bathroom projects. Manufacturer references help confirm the correct products and quantities."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "karol-italia",
+    "sector": "furniture",
+    "sourceName": "KAROL ITALIA",
+    "name": "Karol Italia",
+    "label": "BATHROOMS · FURNITURE & BASINS",
+    "headline": "Bathroom furniture, thoughtfully composed.",
+    "intro": "Italian bathroom brand with furniture, bathtubs and washbasins, part of RONAL Bathrooms.",
+    "image": "/images/brands/karol-italia.jpg",
+    "imageAlt": "Karol Amiata bathroom cabinet with a white countertop basin and circular mirror.",
+    "imageCaption": "KAROL · AMIATA BATHROOM COLLECTION",
+    "officialUrl": "https://www.karolitalia.com/",
+    "sourceUrl": "https://www.karolitalia.com/products/Bathroom%20furniture/amiata",
+    "groups": [
+      {
+        "title": "Bathroom furniture",
+        "description": "Vanity units and bathroom cabinets, including Amiata, combine storage with a clearly defined bathroom composition."
+      },
+      {
+        "title": "Bathtubs",
+        "description": "Bathtubs form part of the Karol bathroom portfolio. Supply enquiries should include the model and required dimensions."
+      },
+      {
+        "title": "Washbasins",
+        "description": "Washbasins complement the furniture selection. Confirm the basin type and its compatibility with the selected unit."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "kartell",
+    "sector": "furniture",
+    "sourceName": "Kartell",
+    "name": "Kartell",
+    "label": "FURNITURE · CONTEMPORARY DESIGN",
+    "headline": "Expressive objects for everyday living.",
+    "intro": "Italian design brand with seating, tables, storage furniture and lighting collections.",
+    "image": "/images/brands/kartell.jpg",
+    "imageAlt": "Kartell living-room collection with a green sofa, white armchair and round coffee tables.",
+    "imageCaption": "KARTELL · LIVING COLLECTION",
+    "officialUrl": "https://www.kartell.com/",
+    "sourceUrl": "https://www.kartell.com/",
+    "groups": [
+      {
+        "title": "Chairs and seating",
+        "description": "Chairs, armchairs and other seating offer a range of forms for dining and living areas."
+      },
+      {
+        "title": "Tables",
+        "description": "Tables and occasional pieces can be specified individually or as part of a coordinated furnishing scheme."
+      },
+      {
+        "title": "Storage furniture",
+        "description": "Storage pieces bring functional organisation into living spaces. Share the product name, colour and quantity."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "arketipo",
+    "sector": "furniture",
+    "sourceName": "ARKETIPO",
+    "name": "Arketipo Firenze",
+    "label": "FURNITURE · CONTEMPORARY INTERIORS",
+    "headline": "Contemporary comfort with character.",
+    "intro": "Furniture brand offering contemporary sofas, armchairs, beds and occasional furniture.",
+    "image": "/images/brands/arketipo.jpg",
+    "imageAlt": "Arketipo Starman sofa and occasional tables in a light living room beneath a glazed roof.",
+    "imageCaption": "ARKETIPO · STARMAN COLLECTION",
+    "officialUrl": "https://arketipo.com/en/",
+    "sourceUrl": "https://arketipo.com/en/",
+    "groups": [
+      {
+        "title": "Sofas",
+        "description": "Sofa collections, including Starman, form generous compositions for living spaces. Identify the layout and upholstery for your enquiry."
+      },
+      {
+        "title": "Armchairs",
+        "description": "Armchairs provide individual seating and can be considered alongside the wider living-room collection."
+      },
+      {
+        "title": "Beds",
+        "description": "Beds extend Arketipo’s upholstered collections into the bedroom, with specifications confirmed against the chosen model."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "rimadesio",
+    "sector": "furniture",
+    "sourceName": "Rimadesio",
+    "name": "Rimadesio",
+    "label": "INTERIORS · MODULAR SYSTEMS",
+    "headline": "Architecture and furniture, in balance.",
+    "intro": "Interior-furnishing brand producing modular storage, bookcases and systems for dividing spaces.",
+    "image": "/images/brands/rimadesio.jpg",
+    "imageAlt": "Rimadesio Zenit bookcase with suspended wood-front cabinets in a furnished living room.",
+    "imageCaption": "RIMADESIO · ZENIT / GIUSEPPE BAVUSO",
+    "officialUrl": "https://www.rimadesio.it/en/",
+    "sourceUrl": "https://www.rimadesio.it/en/product/zenit/",
+    "groups": [
+      {
+        "title": "Bookcases",
+        "description": "Bookcase systems such as Zenit combine shelving with storage elements within a modular interior composition."
+      },
+      {
+        "title": "Walk-in wardrobes",
+        "description": "Wardrobe systems organise storage around a room. Drawings, dimensions and the selected finishes help define the project."
+      },
+      {
+        "title": "Sliding doors",
+        "description": "Sliding-door systems divide interior spaces. Share opening dimensions and the specified system for the supply enquiry."
+      }
+    ],
+    "enquiryItems": [
+      "Product name, supplier or catalogue reference",
+      "Dimensions, finish and upholstery where relevant",
+      "Quantity or a project furniture schedule",
+      "Delivery address and preferred date"
+    ]
+  },
+  {
+    "slug": "leds-c4",
+    "sector": "lights",
+    "sourceName": "LEDS-C4",
+    "name": "LedsC4",
+    "label": "LIGHTING · ARCHITECTURAL & DECORATIVE",
+    "headline": "Light for architecture and everyday spaces.",
+    "intro": "Spanish lighting company offering architectural, decorative and outdoor luminaires. Share your preferred design or project specification to discuss product options and delivery.",
+    "image": "/images/brands/leds-c4.jpg",
+    "imageAlt": "Close-up of the illuminated LedsC4 Levels floor lamp with overlapping green glass shades",
+    "imageCaption": "LEDSC4 · LEVELS FLOOR LAMP / NAHTRANG",
+    "officialUrl": "https://ledsc4.com/en/",
+    "sourceUrl": "https://www.archiproducts.com/it/prodotti/ledsc4/lampada-da-terra-a-led-in-vetro-levels-lampada-da-terra_622712",
+    "groups": [
+      {
+        "title": "Architectural lighting",
+        "description": "Luminaires for architectural interiors, with options intended to integrate into the design of the space."
+      },
+      {
+        "title": "Decorative lighting",
+        "description": "Statement pendants and decorative fittings, including the Levels collection with its glass forms."
+      },
+      {
+        "title": "Outdoor lighting",
+        "description": "Lighting for exterior settings. Specify the location, fitting type and installation requirements with your enquiry."
+      }
+    ],
+    "enquiryItems": [
+      "Product reference and quantity",
+      "Finish, dimensions and installation type",
+      "Lighting specification or project schedule",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "intra-lighting",
+    "sector": "lights",
+    "sourceName": "Intra lighting",
+    "name": "Intra lighting",
+    "label": "LIGHTING · ARCHITECTURAL & DECORATIVE",
+    "headline": "Light that becomes part of the architecture.",
+    "intro": "Architectural luminaires and smart lighting solutions, with suspended, wall and table designs. Share your preferred design or project specification to discuss product options and delivery.",
+    "image": "/images/brands/intra-lighting.jpg",
+    "imageAlt": "Illuminated Intra lighting Trenza woven wall panel in a lounge overlooking mountains",
+    "imageCaption": "INTRA LIGHTING · LIGHTING COLLECTION",
+    "officialUrl": "https://www.intra-lighting.com/",
+    "sourceUrl": "https://www.intra-lighting.com/",
+    "groups": [
+      {
+        "title": "Suspended luminaires",
+        "description": "Suspended designs for workplaces and shared spaces, including Trenza, which combines lighting with acoustic material."
+      },
+      {
+        "title": "Wall luminaires",
+        "description": "Wall-mounted lighting, including Trenza configurations that introduce texture and illumination to an interior."
+      },
+      {
+        "title": "Table lamps",
+        "description": "Table-lighting designs such as Pendulum Table for desks, work settings and smaller areas within an interior."
+      }
+    ],
+    "enquiryItems": [
+      "Product reference and quantity",
+      "Finish, dimensions and installation type",
+      "Lighting specification or project schedule",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "lee-broom",
+    "sector": "lights",
+    "sourceName": "Lee Broom",
+    "name": "Lee Broom",
+    "label": "LIGHTING · INTERIOR & PROJECT LIGHTING",
+    "headline": "Sculptural lighting with a distinctive presence.",
+    "intro": "Lighting collection spanning decorative pendants, chandeliers and wall lights. Share your preferred design or project specification to discuss product options and delivery.",
+    "image": "/images/brands/lee-broom.jpg",
+    "imageAlt": "Lee Broom illuminated tubular pendants cascading beside a sculptural stone staircase",
+    "imageCaption": "LEE BROOM · LIGHTING COLLECTION",
+    "officialUrl": "https://leebroom.com/",
+    "sourceUrl": "https://leebroom.com/",
+    "groups": [
+      {
+        "title": "Pendants",
+        "description": "Individual decorative lights that can define a corner, dining area or reception space."
+      },
+      {
+        "title": "Chandeliers",
+        "description": "Multi-element arrangements, including Hail, for spaces where lighting forms a central feature."
+      },
+      {
+        "title": "Wall lights",
+        "description": "Decorative wall-mounted pieces that extend the collection’s visual language across an interior."
+      }
+    ],
+    "enquiryItems": [
+      "Product reference and quantity",
+      "Finish, dimensions and installation type",
+      "Lighting specification or project schedule",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "ideal-lux",
+    "sector": "lights",
+    "sourceName": "Ideal Lux",
+    "name": "Ideal Lux",
+    "label": "LIGHTING · INTERIOR & PROJECT LIGHTING",
+    "headline": "A broad collection for indoor and outdoor spaces.",
+    "intro": "Italian lighting company founded in 1974, with indoor, outdoor and technical lighting collections. Share your preferred design or project specification to discuss product options and delivery.",
+    "image": "/images/brands/ideal-lux.jpg",
+    "imageAlt": "Ideal Lux opal globe wall light with a vertical brass-coloured frame beside a bed",
+    "imageCaption": "IDEAL LUX · LIGHTING COLLECTION",
+    "officialUrl": "https://www.ideal-lux.com/en/",
+    "sourceUrl": "https://www.ideal-lux.com/en/",
+    "groups": [
+      {
+        "title": "Indoor lighting",
+        "description": "Pendants, wall lights and other interior fittings, including the Binomio design shown here."
+      },
+      {
+        "title": "Outdoor lighting",
+        "description": "Exterior luminaires for a range of settings. Provide the required installation type and product reference."
+      },
+      {
+        "title": "Technical lighting",
+        "description": "Functional lighting options for projects with defined light-distribution and installation requirements."
+      }
+    ],
+    "enquiryItems": [
+      "Product reference and quantity",
+      "Finish, dimensions and installation type",
+      "Lighting specification or project schedule",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "bose-products",
+    "sector": "audio",
+    "sourceName": "Bose Products",
+    "name": "Bose Products",
+    "label": "AUDIO · PORTABLE SOUND",
+    "headline": "Sound for music and live settings.",
+    "intro": "Bose portable sound equipment includes powered loudspeakers, PA systems and subwoofers for music and live performance.",
+    "image": "/images/brands/bose-products.png",
+    "imageAlt": "Bose F1 Model 812 portable powered loudspeaker, shown from the front at an angle.",
+    "imageFit": "contain",
+    "imageCaption": "Bose F1 Model 812 loudspeaker",
+    "officialUrl": "https://www.bose.com/",
+    "sourceUrl": "https://boseprofessional.com/products/portable-pa/powered-loudspeakers/f1-powered-loudspeakers/f1-model-812-flexible-array-loudspeaker",
+    "groups": [
+      {
+        "title": "Portable PA systems",
+        "description": "Portable sound systems for music and live-performance settings. Specify the model and the planned system arrangement."
+      },
+      {
+        "title": "Powered loudspeakers",
+        "description": "Powered loudspeakers, including the Bose F1 Model 812 shown here, integrate amplification into the speaker."
+      },
+      {
+        "title": "Subwoofers",
+        "description": "Subwoofers can form part of a portable system. Specify the intended loudspeaker pairing and the required quantity."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "ateis-europe",
+    "sector": "audio",
+    "sourceName": "ATEЇS Europe",
+    "name": "ATEÏS Europe",
+    "label": "AUDIO · PUBLIC ADDRESS & VOICE ALARM",
+    "headline": "Audio for connected buildings.",
+    "intro": "ATEÏS develops public address and voice alarm systems, with controllers, paging equipment and loudspeakers for building installations.",
+    "image": "/images/brands/ateis-europe.jpg",
+    "imageAlt": "ATEÏS BOUTIQUE BTQ VM4/VM8 rack controller with red paging microphone and front-panel controls.",
+    "imageFit": "contain",
+    "imageCaption": "ATEÏS BOUTIQUE PA/VA controller",
+    "officialUrl": "https://www.ateis-europe.com/",
+    "sourceUrl": "https://www.ateis-europe.com/en/product/ateis/voice-alarm-systems/boutique-system/matrix/btq-vm4vm8/pava-controller",
+    "groups": [
+      {
+        "title": "Voice alarm systems",
+        "description": "Voice-alarm controllers and associated equipment, including BOUTIQUE systems. Supply follows the project’s specified equipment schedule."
+      },
+      {
+        "title": "Public address systems",
+        "description": "Public-address controllers and paging equipment for building installations. Share the system references and required quantities."
+      },
+      {
+        "title": "Loudspeakers",
+        "description": "Loudspeakers for installed audio and paging applications. The project designer specifies the required types and coverage."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "audio-tuning",
+    "sector": "audio",
+    "sourceName": "Audio Tuning Vertriebs",
+    "name": "Audio Tuning Vertriebs",
+    "label": "AUDIO · IMPORTER & WHOLESALER",
+    "headline": "A portfolio for dedicated listening.",
+    "intro": "Audio Tuning is an Austrian importer and wholesaler of hi-fi equipment, including turntables, audio electronics and loudspeakers.",
+    "image": "/images/brands/audio-tuning.jpg",
+    "imageAlt": "A yellow Pro-Ject turntable with a vinyl record, pictured on Audio Tuning’s official Pro-Ject brand page.",
+    "imageFit": "cover",
+    "imageCaption": "Pro-Ject turntable — a brand in Audio Tuning’s portfolio",
+    "officialUrl": "https://www.audiotuning.com/",
+    "sourceUrl": "https://www.audiotuning.com/brand/pro-ject/",
+    "groups": [
+      {
+        "title": "Turntables and phono equipment",
+        "description": "Turntables and phono components from the portfolio, including Pro-Ject. Product brand and model are identified separately from the supplier."
+      },
+      {
+        "title": "Hi-fi electronics",
+        "description": "Audio components form part of the wholesale selection. Share the exact amplifier, source or accessory reference."
+      },
+      {
+        "title": "Loudspeakers",
+        "description": "Loudspeaker selections support different listening arrangements. A model list helps define a complete sourcing enquiry."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "music-and-lights",
+    "sector": "audio",
+    "sourceName": "MUSIC & LIGHTS",
+    "name": "Music & Lights",
+    "label": "AUDIOVISUAL · DAD AUDIO SYSTEMS",
+    "headline": "Professional audio for performance spaces.",
+    "intro": "Music & Lights develops professional audiovisual equipment; its DAD audio range includes powered loudspeakers, compact arrays and subwoofers.",
+    "image": "/images/brands/music-and-lights.webp",
+    "imageAlt": "Black DAD ARK426A active column loudspeaker from Music & Lights.",
+    "imageFit": "contain",
+    "imageCaption": "DAD ARK426A active column loudspeaker",
+    "officialUrl": "https://www.musiclights.it/",
+    "sourceUrl": "https://www.musiclights.it/product/ARK426A",
+    "groups": [
+      {
+        "title": "Active loudspeakers",
+        "description": "Active loudspeakers from the DAD audio portfolio combine the speaker and amplification in a single system."
+      },
+      {
+        "title": "Column array systems",
+        "description": "Compact column-array options, including ARK426A, form part of the range for professional audio applications."
+      },
+      {
+        "title": "Subwoofers",
+        "description": "Subwoofers complement a specified system. Product pairing and quantities follow the project’s audio design."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "cambridge-audio",
+    "sector": "audio",
+    "sourceName": "Cambridge Audio",
+    "name": "Cambridge Audio",
+    "label": "AUDIO · HOME HI-FI",
+    "headline": "Built around the listening experience.",
+    "intro": "Cambridge Audio designs hi-fi amplifiers, music streamers and speakers, with a range of components for home listening systems.",
+    "image": "/images/brands/cambridge-audio.jpg",
+    "imageAlt": "Cambridge Audio CXA81 amplifier, CXN100 streamer, CXC CD transport and turntable arranged on wooden hi-fi shelves.",
+    "imageFit": "cover",
+    "imageCaption": "Cambridge Audio CX hi-fi system",
+    "officialUrl": "https://www.cambridgeaudio.com/",
+    "sourceUrl": "https://www.cambridgeaudio.com/gbr/en/products/hi-fi/cx/cxa81-mkii",
+    "groups": [
+      {
+        "title": "Amplifiers",
+        "description": "Integrated amplifiers, including the CX range, form the core of a component-based listening system."
+      },
+      {
+        "title": "Music streamers",
+        "description": "Network music players bring streaming sources into a hi-fi setup. Identify the preferred model and system connections."
+      },
+      {
+        "title": "Speakers",
+        "description": "Speaker options complete the listening chain. Share the planned system and exact product references."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "transom-post-netherlands",
+    "sector": "audio",
+    "sourceName": "Transom Post Netherlands",
+    "name": "Transom Post Netherlands",
+    "label": "AUDIO · BOSE PROFESSIONAL EQUIPMENT",
+    "headline": "Commercial audio, clearly specified.",
+    "intro": "Transom Post Netherlands B.V. is a business entity identified in Bose Professional documentation for commercial audio equipment.",
+    "image": "/images/brands/transom-post-netherlands.png",
+    "imageAlt": "Bose Professional Veritas 2160BH integrated zone amplifier, pictured for the documented Transom Post Netherlands business entity.",
+    "imageFit": "contain",
+    "imageCaption": "Bose Professional Veritas 2160BH amplifier",
+    "officialUrl": "https://boseprofessional.com/",
+    "sourceUrl": "https://boseprofessional.com/products/power-amplifiers/mixer-amps/veritas/veritas-2160bh",
+    "groups": [
+      {
+        "title": "Commercial loudspeakers",
+        "description": "Bose Professional loudspeakers support commercial installation projects. Use the brand’s model references when requesting supply."
+      },
+      {
+        "title": "Amplifiers",
+        "description": "Amplifier options include the Veritas range shown here. State the model and the required system configuration."
+      },
+      {
+        "title": "Installed audio systems",
+        "description": "For a complete project, provide the specified equipment list covering loudspeakers, amplification and related system components."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "pvs",
+    "sector": "audio",
+    "sourceName": "PVS",
+    "name": "PVS",
+    "label": "AUDIOVISUAL · BRANDS & DISTRIBUTION",
+    "headline": "A connected portfolio for installed audio.",
+    "intro": "PVS manufactures and distributes professional audiovisual solutions, including AUDAC audio equipment, PROCAB cables and CAYMON installation hardware.",
+    "image": "/images/brands/pvs.webp",
+    "imageAlt": "AUDAC VEXO208 loudspeaker mounted horizontally on a wall, from PVS’s official product presentation.",
+    "imageFit": "cover",
+    "imageCaption": "AUDAC VEXO208 installed loudspeaker",
+    "officialUrl": "https://my.pvs.global/",
+    "sourceUrl": "https://my.pvs.global/",
+    "groups": [
+      {
+        "title": "Loudspeakers",
+        "description": "AUDAC loudspeakers, including VEXO models, form part of the PVS professional audio portfolio."
+      },
+      {
+        "title": "Amplifiers",
+        "description": "Amplification products support a range of installed-audio configurations. Specify the model and intended equipment pairing."
+      },
+      {
+        "title": "Audio processors",
+        "description": "Audio processing and control equipment help complete a system design. Provide the exact product schedule for a supply enquiry."
+      }
+    ],
+    "enquiryItems": [
+      "Brand, model and equipment quantities",
+      "System specification or product schedule",
+      "Required accessories and regional configuration",
+      "Delivery destination and required date"
+    ]
+  },
+  {
+    "slug": "pentair",
+    "sector": "pool-equipment",
+    "sourceName": "Pentair",
+    "name": "Pentair",
+    "label": "POOL EQUIPMENT · FILTRATION, HEATING & CONTROL",
+    "headline": "The systems that keep a pool running.",
+    "intro": "Pentair’s European pool range includes circulation pumps, cartridge and media filters, heat pumps, underwater lighting and connected controls. We coordinate B2B sourcing and delivery around the equipment schedule for your project.",
+    "image": "/images/pool/pentair-clean-and-clear-rp.webp",
+    "imageAlt": "Pentair Clean & Clear RP cartridge pool filter with pressure gauge and side connections",
+    "imageFit": "contain",
+    "imageCaption": "PENTAIR · CLEAN & CLEAR RP",
+    "officialUrl": "https://www.pentairpooleurope.com/",
+    "sourceUrl": "https://www.pentairpooleurope.com/products/pumps/intelliflo3",
+    "groups": [
+      {
+        "id": "pumps",
+        "title": "Circulation pumps",
+        "productName": "IntelliFlo3",
+        "description": "Single-speed and variable-speed pumps, including IntelliFlo3, move water through the pool circuit. Share the specified model, required flow and electrical supply with your enquiry.",
+        "image": "/images/brands/pentair-pump.png",
+        "imageAlt": "Pentair IntelliFlo3 swimming-pool circulation pump with an integrated control panel"
+      },
+      {
+        "id": "filtration",
+        "title": "Filters & filtration",
+        "productName": "Clean & Clear RP",
+        "description": "Cartridge and media filters for the pool circulation system. Clean & Clear RP uses a single cartridge and a reinforced tank, with access for routine filter maintenance.",
+        "image": "/images/pool/pentair-clean-and-clear-rp.webp",
+        "imageAlt": "Pentair Clean & Clear RP cartridge pool filter with pressure gauge and side connections"
+      },
+      {
+        "id": "heating",
+        "title": "Pool heating",
+        "productName": "InverTemp-LT",
+        "description": "Inverter heat pumps for controlling pool-water temperature. InverTemp-LT combines a variable-speed compressor and fan, with heating and cooling modes.",
+        "image": "/images/pool/pentair-invertemp-lt.webp",
+        "imageAlt": "Pentair InverTemp-LT pool heat pump with grey enclosure and front fan"
+      },
+      {
+        "id": "automation",
+        "title": "Automation & controls",
+        "productName": "Speedeo Connect",
+        "description": "Connected equipment controls for filtration, lighting and heating. Speedeo Connect coordinates compatible devices and provides remote access through Wi-Fi.",
+        "image": "/images/pool/pentair-speedeo-connect.webp",
+        "imageAlt": "Pentair Speedeo Connect pool automation controller with blue LCD screen"
+      },
+      {
+        "id": "lighting",
+        "title": "Underwater lighting",
+        "productName": "MicroBrite",
+        "description": "Compact LED lights for swimming pools and spas. MicroBrite fits standard wall fittings and is offered in colour, white and warm-white versions.",
+        "image": "/images/pool/pentair-microbrite.webp",
+        "imageAlt": "Pentair MicroBrite compact underwater LED pool light with threaded white fitting"
+      }
+    ],
+    "enquiryItems": [
+      "Manufacturer and product or model reference",
+      "Pool type, volume and equipment schedule",
+      "Required quantity, electrical supply and connections",
+      "Delivery destination and preferred date"
+    ]
+  },
+  {
+    "slug": "hayward",
+    "sector": "pool-equipment",
+    "sourceName": "Hayward",
+    "name": "Hayward",
+    "label": "POOL EQUIPMENT · WATER CARE & CLEANING",
+    "headline": "Water care, cleaning and pool essentials.",
+    "intro": "Hayward’s pool range brings together pumps, filters, salt chlorinators, robotic cleaners and skimmers. We arrange supply enquiries for equipment and components, with the model and configuration matched to your project requirements.",
+    "image": "/images/pool/hayward-sharkvac-xl.webp",
+    "imageAlt": "Hayward SharkVAC XL Pilot robotic pool cleaner with blue handle and front cleaning roller",
+    "imageFit": "contain",
+    "imageCaption": "HAYWARD · SHARKVAC XL PILOT",
+    "officialUrl": "https://www.hayward-pool.co.uk/",
+    "sourceUrl": "https://www.hayward-pool.co.uk/catalog/single-speed-pumps/super-pump-pro",
+    "groups": [
+      {
+        "id": "pumps",
+        "title": "Circulation pumps",
+        "productName": "Super Pump Pro",
+        "description": "Single-speed and variable-speed circulation pumps, including the Super Pump family, support different installation requirements. Model, flow and electrical specifications form part of the supply enquiry.",
+        "image": "/images/brands/hayward-pump.png",
+        "imageAlt": "Hayward Super Pump Pro swimming-pool pump with a black strainer housing and motor"
+      },
+      {
+        "id": "filtration",
+        "title": "Sand filters",
+        "productName": "ProSeries HB",
+        "description": "Sand filters and associated multiport valves for pool filtration. The ProSeries HB range includes side- and top-mounted configurations, selected around the installation.",
+        "image": "/images/pool/hayward-proseries-hb.webp",
+        "imageAlt": "Hayward ProSeries HB sand filter tank with side-mounted multiport valve"
+      },
+      {
+        "id": "water-treatment",
+        "title": "Water treatment",
+        "productName": "AquaRite NEO",
+        "description": "Salt chlorinators and water-quality control equipment. AquaRite NEO offers optional pH, redox and temperature kits, with connectivity options specified separately.",
+        "image": "/images/pool/hayward-aquarite-neo.webp",
+        "imageAlt": "Hayward AquaRite NEO salt chlorinator control unit with colour display"
+      },
+      {
+        "id": "cleaners",
+        "title": "Robotic pool cleaners",
+        "productName": "SharkVAC XL Pilot",
+        "description": "Electric robots for routine pool cleaning. SharkVAC XL Pilot offers floor or floor-and-wall programmes and top access to the filter unit for maintenance.",
+        "image": "/images/pool/hayward-sharkvac-xl.webp",
+        "imageAlt": "Hayward SharkVAC XL Pilot robotic pool cleaner with blue handle and front cleaning roller"
+      },
+      {
+        "id": "skimmers",
+        "title": "Pool skimmers",
+        "productName": "Auto-Skim",
+        "description": "Skimmers collect surface water and floating debris as part of the circulation system. The ABS Auto-Skim range includes different pipework connections and access lids.",
+        "image": "/images/pool/hayward-skimmer-auto-skim.webp",
+        "imageAlt": "White Hayward Auto-Skim pool skimmer with rectangular inlet and square lid"
+      }
+    ],
+    "enquiryItems": [
+      "Manufacturer and product or model reference",
+      "Pool type, volume and equipment schedule",
+      "Required quantity, electrical supply and connections",
+      "Delivery destination and preferred date"
+    ]
+  },
+  {
+    "slug": "astralpool",
+    "sector": "pool-equipment",
+    "sourceName": "AstralPool",
+    "name": "AstralPool",
+    "label": "POOL EQUIPMENT · FROM PLANT ROOM TO POOLSIDE",
+    "headline": "The details that complete a pool.",
+    "intro": "AstralPool covers technical systems and the pool itself: underwater lights, access ladders, return inlets, valves, covers and mosaic finishes, alongside pumps, filters and water treatment. We coordinate sourcing and delivery for new installations and refurbishment projects.",
+    "image": "/images/pool/astralpool-lumiplus-design.webp",
+    "imageAlt": "AstralPool LumiPlus Design underwater LED light with white trim and illuminated RGB LEDs",
+    "imageFit": "contain",
+    "imageCaption": "ASTRALPOOL · LUMIPLUS DESIGN",
+    "officialUrl": "https://www.astralpool.com/en/en.html",
+    "sourceUrl": "https://www.astralpool.com/en/en/pumps/self-priming-pumps/victoria-plus-silent.html",
+    "groups": [
+      {
+        "id": "lighting",
+        "title": "Underwater lighting",
+        "productName": "LumiPlus Design",
+        "description": "Underwater LED projectors for pool niches, with white, warm-white or RGB light options and a choice of decorative trim. The pictured LumiPlus Design shows an RGB configuration.",
+        "image": "/images/pool/astralpool-lumiplus-design.webp",
+        "imageAlt": "AstralPool LumiPlus Design underwater LED light with white trim and illuminated RGB LEDs"
+      },
+      {
+        "id": "access",
+        "title": "Ladders & handrails",
+        "productName": "KOMFY",
+        "description": "Pool access equipment with polished stainless-steel handrails and broad non-slip steps. The KOMFY family offers different step counts to suit the pool layout.",
+        "image": "/images/pool/astralpool-komfy-ladder.webp",
+        "imageAlt": "AstralPool KOMFY pool ladder with stainless steel handrails and three wide non-slip steps"
+      },
+      {
+        "id": "covers",
+        "title": "Covers & rollers",
+        "productName": "Octeo",
+        "description": "Automatic pool-cover and reel systems. The Octeo deck-level roller uses a motorised mechanism to wind the cover; dimensions and configuration are specified for the pool.",
+        "image": "/images/pool/astralpool-octeo-cover.webp",
+        "imageAlt": "AstralPool Octeo automatic cover roller beside a pool with its grey slatted cover rolled up"
+      },
+      {
+        "id": "finishes",
+        "title": "Pool finishes & mosaics",
+        "productName": "Blue mix",
+        "description": "Glass mosaic for pool interiors and surrounding wellness spaces. The Blue mix family brings together blue and white tones, with the finish and quantity selected for the project.",
+        "image": "/images/pool/astralpool-blue-mix-mosaic.webp",
+        "imageAlt": "AstralPool Blue mix glass mosaic sheet with white, light blue and deep blue tiles"
+      },
+      {
+        "id": "inlets",
+        "title": "Return inlets",
+        "productName": "Multiflow",
+        "description": "Fittings that return filtered water to the pool. Multiflow ABS inlet nozzles are offered in colours that coordinate with the pool finish, with connections matched to the pipework.",
+        "image": "/images/pool/astralpool-multiflow-return.webp",
+        "imageAlt": "AstralPool Multiflow return inlet nozzles shown in white, beige, light grey and anthracite"
+      },
+      {
+        "id": "drains",
+        "title": "Main drains",
+        "productName": "Round 210 mm",
+        "description": "Bottom-suction fittings for the pool shell. The round AstralPool main-drain family uses an ABS body and grille, with variants for different pool constructions and finishes.",
+        "image": "/images/pool/astralpool-main-drain.webp",
+        "imageAlt": "AstralPool white 210 mm round main drain with radial ABS grille and threaded side outlet"
+      },
+      {
+        "id": "pipework",
+        "title": "Pipework & valves",
+        "productName": "Clear Series",
+        "description": "Valves and fittings connect and control pool circulation circuits. The Clear Series check valve prevents reverse flow and has a transparent body for visual inspection.",
+        "image": "/images/pool/astralpool-clear-check-valve.webp",
+        "imageAlt": "AstralPool Clear Series transparent check valve between grey PVC pipes"
+      },
+      {
+        "id": "pumps",
+        "title": "Circulation pumps",
+        "productName": "Victoria Plus Silent",
+        "description": "Self-priming, variable-speed and centrifugal pumps serve different pool circuits. The Victoria Plus Silent family is one option for circulation, with the pump duty and installation details specified for each order.",
+        "image": "/images/brands/astralpool-pump.jpg",
+        "imageAlt": "AstralPool Victoria Plus Silent self-priming pump with a transparent prefilter lid"
+      },
+      {
+        "id": "filtration",
+        "title": "Filtration systems",
+        "productName": "Aster",
+        "description": "Pool filters, media and multiport valves for the technical installation. The laminated Aster filter works with sand or glass media; the photograph shows a top-mounted valve.",
+        "image": "/images/pool/astralpool-aster-filter.webp",
+        "imageAlt": "AstralPool Aster sand filter with top-mounted multiport valve and pressure gauge"
+      },
+      {
+        "id": "water-treatment",
+        "title": "Water treatment",
+        "productName": "Clear Connect",
+        "description": "Salt chlorination and water-quality equipment. Clear Connect combines a controller and electrolysis cell, with Wi-Fi and Bluetooth connectivity for supported controls.",
+        "image": "/images/pool/astralpool-clear-connect.webp",
+        "imageAlt": "AstralPool Clear Connect salt chlorinator controller and translucent electrolysis cell"
+      }
+    ],
+    "enquiryItems": [
+      "Manufacturer and product or model reference",
+      "Pool type, volume and equipment schedule",
+      "Required quantity, electrical supply and connections",
+      "Delivery destination and preferred date"
+    ]
+  }
+]

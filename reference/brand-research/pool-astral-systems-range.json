@@ -1,0 +1,35 @@
+{
+  "brand": "AstralPool",
+  "checked_date": "2026-09-07",
+  "assets": [
+    {
+      "name": "AstralPool Aster Filter",
+      "category": "Pool filtration",
+      "local_path": "/tmp/kins-pool-range/astral-systems/aster-filter.jpg",
+      "width": 1024,
+      "height": 1534,
+      "source_page": "https://www.astralpool.com/en/en/filtration/sand-filters/laminated-sand-filters/aster-filter.html",
+      "image_url": "https://fluidra.bynder.com/m/43a97d1ad4f40e01/Medium-asterfilter.jpg",
+      "alt": "AstralPool Aster sand filter with top-mounted multiport valve and pressure gauge",
+      "description": "Laminated polyester and fibreglass pool filter compatible with sand and glass filtration media.",
+      "visual_note": "Official photograph shows the top-mounted valve variant. White background.",
+      "visually_verified": true,
+      "published_path": "/images/pool/astralpool-aster-filter.webp"
+    },
+    {
+      "name": "AstralPool Clear Connect",
+      "category": "Pool water treatment",
+      "local_path": "/tmp/kins-pool-range/astral-systems/clear-connect.jpg",
+      "width": 1024,
+      "height": 1024,
+      "source_page": "https://www.astralpool.com/en/en/water-treatment-equipment/salt-water-electrolysis/salt-water-chlorinators/clear-connect.html",
+      "image_url": "https://dam.fluidra.com/asset/7ca2cf6b-4ef2-4b23-8a5d-cb1e77598669/Medium/MainView_CLEARCONNECT.jpg",
+      "alt": "AstralPool Clear Connect salt chlorinator controller and translucent electrolysis cell",
+      "description": "Saltwater chlorinator with integrated Wi-Fi and Bluetooth connectivity, LCD controls and Fluidra Pool App support.",
+      "visual_note": "White background. Controller and electrolysis cell together.",
+      "visually_verified": true,
+      "published_path": "/images/pool/astralpool-clear-connect.webp"
+    }
+  ],
+  "reuse_info": "Official product photographs linked from AstralPool product pages; no specific open reuse licence shown. Product pages state Fluidra all rights reserved."
+}

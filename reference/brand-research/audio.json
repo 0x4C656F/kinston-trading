@@ -1,0 +1,212 @@
+[
+  {
+    "originalName": "Bose Products",
+    "verifiedName": "Bose Products B.V. / Bose",
+    "officialUrl": "https://www.bose.com/",
+    "sourcePageUrl": "https://boseprofessional.com/products/portable-pa/powered-loudspeakers/f1-powered-loudspeakers/f1-model-812-flexible-array-loudspeaker",
+    "description": "Bose portable sound equipment includes powered loudspeakers, PA systems and subwoofers for music and live performance.",
+    "categories": [
+      "Portable PA systems",
+      "Powered loudspeakers",
+      "Subwoofers"
+    ],
+    "imageUrl": "https://assets.boseprofessional.com/m/79e51e5c1bb8be9d/original/f1_812_EC-png.png",
+    "imageAlt": "Bose F1 Model 812 portable powered loudspeaker, shown from the front at an angle.",
+    "imageCaption": "Bose F1 Model 812 loudspeaker",
+    "entityType": "Business-name shorthand associated with Bose; Bose Products B.V. is named as an EU importer in official Bose documentation.",
+    "identitySources": [
+      "https://assets.boseprofessional.com/m/2a451c9e1e5c2e24/original/og_sub1_sub2_adjustablespeakerpole_ml.pdf",
+      "https://www.bose.com/about"
+    ],
+    "ambiguity": "The supplied label omits a legal suffix. Bose Products B.V. is a documented Bose importer, but Kins West’s precise contractual entity was not established. Do not rename this card Bose Professional or imply that Bose Corporation and the current Bose Professional business are one company. The selected photo is specifically a Bose F1 product, sourced from its official current product page.",
+    "localImagePath": "/tmp/kins-audio-assets/bose-f1-product.png",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 521050,
+    "width": 1200,
+    "height": 1022,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "ATEЇS Europe",
+    "verifiedName": "ATEÏS Europe B.V.",
+    "officialUrl": "https://www.ateis-europe.com/",
+    "sourcePageUrl": "https://www.ateis-europe.com/en/product/ateis/voice-alarm-systems/boutique-system/matrix/btq-vm4vm8/pava-controller",
+    "description": "ATEÏS develops public address and voice alarm systems, with controllers, paging equipment and loudspeakers for building installations.",
+    "categories": [
+      "Voice alarm systems",
+      "Public address systems",
+      "Loudspeakers"
+    ],
+    "imageUrl": "https://www.ateis-europe.com/images/products/ateis/btq-vm4/btq-vm4.jpg",
+    "imageAlt": "ATEÏS BOUTIQUE BTQ VM4/VM8 rack controller with red paging microphone and front-panel controls.",
+    "imageCaption": "ATEÏS BOUTIQUE PA/VA controller",
+    "entityType": "Professional audio manufacturer/supplier",
+    "identitySources": [
+      "https://www.ateis-europe.com/"
+    ],
+    "ambiguity": "Correct official spelling is ATEÏS (Latin Ï). Official controller imagery is only 480 × 360; it is suitable for a small card, not a full-width hero.",
+    "localImagePath": "/tmp/kins-audio-assets/ateis-product.jpg",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 56979,
+    "width": 480,
+    "height": 360,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "Audio Tuning Vertriebs",
+    "verifiedName": "Audio Tuning Vertriebs GmbH",
+    "officialUrl": "https://www.audiotuning.com/",
+    "sourcePageUrl": "https://www.audiotuning.com/brand/pro-ject/",
+    "description": "Audio Tuning is an Austrian importer and wholesaler of hi-fi equipment, including turntables, audio electronics and loudspeakers.",
+    "categories": [
+      "Turntables and phono equipment",
+      "Hi-fi electronics",
+      "Loudspeakers"
+    ],
+    "imageUrl": "https://www.audiotuning.com/wp-content/uploads/2020/08/audiotuning-marken-pro-ject-2.jpg",
+    "imageAlt": "A yellow Pro-Ject turntable with a vinyl record, pictured on Audio Tuning’s official Pro-Ject brand page.",
+    "imageCaption": "Pro-Ject turntable — a brand in Audio Tuning’s portfolio",
+    "entityType": "Importer and wholesaler",
+    "identitySources": [
+      "https://www.audiotuning.com/uber-uns/",
+      "https://www.audiotuning.com/"
+    ],
+    "ambiguity": "Audio Tuning is a distributor/business entity. Label the pictured item as Pro-Ject, not as a turntable manufactured under an Audio Tuning product brand.",
+    "localImagePath": "/tmp/kins-audio-assets/audiotuning-product.jpg",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 57530,
+    "width": 1500,
+    "height": 980,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "MUSIC & LIGHTS",
+    "verifiedName": "Music & Lights S.r.l.",
+    "officialUrl": "https://www.musiclights.it/",
+    "sourcePageUrl": "https://www.musiclights.it/product/ARK426A",
+    "description": "Music & Lights develops professional audiovisual equipment; its DAD audio range includes powered loudspeakers, compact arrays and subwoofers.",
+    "categories": [
+      "Active loudspeakers",
+      "Column array systems",
+      "Subwoofers"
+    ],
+    "imageUrl": "https://musiclights.it/images/tmp/1200x630ARK426A_27317.webp?20200228121816",
+    "imageAlt": "Black DAD ARK426A active column loudspeaker from Music & Lights.",
+    "imageCaption": "DAD ARK426A active column loudspeaker",
+    "entityType": "Professional audiovisual equipment company with DAD audio brand",
+    "identitySources": [
+      "https://www.musiclights.it/pdf/supporto/azienda.pdf",
+      "https://musiclights.it/company"
+    ],
+    "ambiguity": "Music & Lights is the company; DAD is the verified audio product brand. Do not describe this audio photo as a PROLIGHTS product.",
+    "localImagePath": "/tmp/kins-audio-assets/musiclights-product.webp",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 42804,
+    "width": 1200,
+    "height": 630,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "Cambridge Audio",
+    "verifiedName": "Cambridge Audio",
+    "officialUrl": "https://www.cambridgeaudio.com/",
+    "sourcePageUrl": "https://www.cambridgeaudio.com/gbr/en/products/hi-fi/cx/cxa81-mkii",
+    "description": "Cambridge Audio designs hi-fi amplifiers, music streamers and speakers, with a range of components for home listening systems.",
+    "categories": [
+      "Amplifiers",
+      "Music streamers",
+      "Speakers"
+    ],
+    "imageUrl": "https://www.cambridgeaudio.com/sites/default/files/media/images/02_CX_Lifestyle_CXA81_CXN100_CXC_ALVATT_ModelWithRecords_16x9_8.jpg",
+    "imageAlt": "Cambridge Audio CXA81 amplifier, CXN100 streamer, CXC CD transport and turntable arranged on wooden hi-fi shelves.",
+    "imageCaption": "Cambridge Audio CX hi-fi system",
+    "entityType": "Hi-fi brand/manufacturer",
+    "identitySources": [
+      "https://www.cambridgeaudio.com/gbr/en"
+    ],
+    "ambiguity": null,
+    "processing": "Official original image resized proportionally to 1600 pixels wide using sips; no content changes.",
+    "localImagePath": "/tmp/kins-audio-assets/cambridge-final.jpg",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 176114,
+    "width": 1600,
+    "height": 900,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "Transom Post Netherlands",
+    "verifiedName": "Transom Post Netherlands B.V.",
+    "officialUrl": "https://boseprofessional.com/",
+    "sourcePageUrl": "https://boseprofessional.com/products/power-amplifiers/mixer-amps/veritas/veritas-2160bh",
+    "description": "Transom Post Netherlands B.V. is a business entity identified in Bose Professional documentation for commercial audio equipment.",
+    "categories": [
+      "Commercial loudspeakers",
+      "Amplifiers",
+      "Installed audio systems"
+    ],
+    "imageUrl": "https://assets.boseprofessional.com/transform/1b3d281b-4bce-4fb8-8d50-aa16918daa80/Veritas2160BH_i_IsoRightFacing?io=transform:scale,width:1600,height:1600",
+    "imageAlt": "Bose Professional Veritas 2160BH integrated zone amplifier, pictured for the documented Transom Post Netherlands business entity.",
+    "imageCaption": "Bose Professional Veritas 2160BH amplifier",
+    "entityType": "Legal business entity associated with Bose Professional, not a standalone product brand",
+    "identitySources": [
+      "https://assets.boseprofessional.com/m/3d1fafc21db57c6a/original/IG_Veritas_2160BH-2160BL.pdf",
+      "https://find-and-update.company-information.service.gov.uk/company/FC040546"
+    ],
+    "ambiguity": "No separate Transom-branded product range or standalone product website was found. The official Veritas installation guide explicitly names Transom Post Netherlands B.V. The photo must remain labelled Bose Professional; do not imply a Transom-manufactured product brand. Companies House source is its UK overseas establishment.",
+    "processing": "Official product image resized proportionally to 1600 pixels wide using sips; no content changes.",
+    "localImagePath": "/tmp/kins-audio-assets/transom-final.png",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 225009,
+    "width": 1600,
+    "height": 900,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  },
+  {
+    "originalName": "PVS",
+    "verifiedName": "PVS",
+    "officialUrl": "https://my.pvs.global/",
+    "sourcePageUrl": "https://my.pvs.global/",
+    "description": "PVS manufactures and distributes professional audiovisual solutions, including AUDAC audio equipment, PROCAB cables and CAYMON installation hardware.",
+    "categories": [
+      "Loudspeakers",
+      "Amplifiers",
+      "Audio processors"
+    ],
+    "imageUrl": "https://images.pvs.global/webshop/home/AUDAC-VEXO208.webp?width=1600",
+    "imageAlt": "AUDAC VEXO208 loudspeaker mounted horizontally on a wall, from PVS’s official product presentation.",
+    "imageCaption": "AUDAC VEXO208 installed loudspeaker",
+    "entityType": "Manufacturer and distributor; AUDAC, PROCAB and CAYMON are its brands",
+    "identitySources": [
+      "https://my.pvs.global/",
+      "https://audac.eu/products/generate-declaration-of-conformity/?code=MFA208"
+    ],
+    "ambiguity": "The photographed product is AUDAC, a verified PVS brand. Keep AUDAC in the caption and do not invent a separate PVS-labelled loudspeaker model.",
+    "localImagePath": "/tmp/kins-audio-assets/pvs-product.webp",
+    "provenance": "Downloaded from the official public product/brand site. No open reuse licence or explicit third-party republication grant was identified; source-owner copyright retained.",
+    "reuseStatus": "Official source; open reuse permission not established",
+    "bytes": 190646,
+    "width": 1600,
+    "height": 667,
+    "fallbackImageUrl": "https://www.kins-west.co.uk/images/audio.jpg",
+    "fallbackLocalImagePath": "/tmp/kins-audio-assets/fallback.jpg",
+    "fallbackImageAlt": "Thematic audio equipment image from the existing Kins West website; not evidence of a specific supplier or brand."
+  }
+]

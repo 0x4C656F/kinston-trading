@@ -1,0 +1,70 @@
+{
+  "verified_date": "2026-09-07",
+  "assets": [
+    {
+      "local_file": "/tmp/kins-pool-range/hayward/aquarite-neo.jpg",
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "product_model": "Hayward AquaRite® NEO",
+      "category": "Salt chlorinator",
+      "alt": "Hayward AquaRite NEO salt chlorinator control unit with colour display",
+      "source_page": "https://www.hayward-pool.co.uk/catalog/salt-chlorinators/salt-chlorinator-aquarite-neo",
+      "image_url": "https://cdn.hayward.fr/production/media/1/6/7/3/3/6dc00a.jpg",
+      "description": "Salt chlorinator with optional pH, redox and temperature kits and optional Wi-Fi or Ethernet connectivity.",
+      "model_note": "Official shared range photo; not specific to one chlorine-output variant.",
+      "published_path": "/images/pool/hayward-aquarite-neo.webp"
+    },
+    {
+      "local_file": "/tmp/kins-pool-range/hayward/sharkvac-xl.png",
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "product_model": "Hayward SharkVAC XL™ Pilot, RC9743WCPCEDY",
+      "category": "Robotic pool cleaner",
+      "alt": "Hayward SharkVAC XL Pilot robotic pool cleaner with blue handle and front cleaning roller",
+      "source_page": "https://www.hayward-pool.co.uk/catalog/electric-cleaners/sharkvac-xl-pilot-cleaner",
+      "image_url": "https://cdn.hayward.fr/production/media/5/8/9/7/b1da41.png",
+      "description": "Electric robotic cleaner with selectable floor or floor-and-wall cleaning programs and top access to its filter unit.",
+      "published_path": "/images/pool/hayward-sharkvac-xl.webp"
+    },
+    {
+      "local_file": "/tmp/kins-pool-range/hayward/skimmer-auto-skim.png",
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "product_model": "Hayward Auto-Skim",
+      "category": "Pool skimmer",
+      "alt": "White Hayward Auto-Skim pool skimmer with rectangular inlet and square lid",
+      "source_page": "https://www.hayward-pool.co.uk/catalog/white-goods/skimmer-auto-skim-1",
+      "image_url": "https://cdn.hayward.fr/production/media/3/5/6/7/bc7112.png",
+      "description": "ABS pool skimmer range with connections for 50 mm and 63 mm pipework and screw-on basket-access lid.",
+      "model_note": "Official shared range photo; the page uses it for multiple skimmer references.",
+      "published_path": "/images/pool/hayward-skimmer-auto-skim.webp"
+    },
+    {
+      "local_file": "/tmp/kins-pool-range/hayward/proseries-hb.png",
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "product_model": "Hayward ProSeries™ HB Side",
+      "category": "Sand filter",
+      "alt": "Hayward ProSeries HB sand filter tank with side-mounted multiport valve",
+      "source_page": "https://www.hayward-pool.co.uk/catalog/sand-filters/proseries-hb-side-hb-top-filter",
+      "image_url": "https://cdn.hayward.fr/production/media/3/1/9/8/21bf48.png",
+      "description": "Polyethylene sand-filter range with 40–50 micron filtration and swivel-mounted laterals for maintenance.",
+      "model_note": "Side-valve version is pictured; the official page covers HB Side and HB Top ranges.",
+      "published_path": "/images/pool/hayward-proseries-hb.webp"
+    }
+  ],
+  "reuse_info": {
+    "owner": "Hayward Pool Europe; site copyright Hayward Holdings, Inc.",
+    "status": "No open commercial reuse licence found. Official legal notice requires prior written consent for copying, modification or publication of site images.",
+    "source": "https://www.hayward-pool.co.uk/article/legal-notices-and-privacy-policy"
+  },
+  "qa": "All four unmodified original CDN files downloaded and visually checked. No watermark; white backgrounds."
+}
