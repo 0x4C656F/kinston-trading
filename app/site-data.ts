@@ -1,6 +1,6 @@
 export const company = {
   name: 'KINS WEST TRADING CO. LTD', number: '15860450',
-  email: 'KingsWestTrading@gmail.com', phone: '+380955481839', displayPhone: '+380 95 548 18 39',
+  email: 'KinsWestTrading@gmail.com', phone: '+380955481839', displayPhone: '+380 95 548 18 39',
   registry: 'https://find-and-update.company-information.service.gov.uk/company/15860450',
   address: 'Office 509, The Old Bank, 153 The Parade High Street, Watford, United Kingdom, WD17 1NA',
 };
